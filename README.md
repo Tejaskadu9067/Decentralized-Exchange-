@@ -35,6 +35,10 @@ PORT=3000
 
 # Start the backend server (from the backend directory)
 cd backend
+
+# Screenshot
+![Screenshot 2024-05-23 002328](https://github.com/Tejaskadu9067/Decentralized-Exchange-/assets/142161466/aae05c0b-789a-4f67-912e-daf790894a59)
+
 npm start
 
 # Start the frontend development server (from the frontend directory)
