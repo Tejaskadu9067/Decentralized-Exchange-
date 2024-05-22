@@ -1,3 +1,6 @@
+# Screenshot
+![Screenshot 2024-05-23 002328](https://github.com/Tejaskadu9067/Decentralized-Exchange-/assets/142161466/aae05c0b-789a-4f67-912e-daf790894a59)
+
 # Crypto Exchange App
 
 This project is a simple crypto exchange application that allows users to buy and sell assets (ETH) using USDC. It includes a backend server built with Express.js and a frontend interface built with React.
