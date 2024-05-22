@@ -30,7 +30,7 @@ npm install
 cd ../frontend
 npm install
  
-## Set port to use inside index.js file inside the backend folder.
+## Set port to use in index.js file inside the backend folder.
 PORT=3000
 
 # Start the backend server (from the backend directory)
